@@ -1,4 +1,4 @@
 # monalect.github.io
 Monalect's Documentation
 
-[monalect.github.io](monalect.github.io)
+[monalect.github.io](https://monalect.github.io)
